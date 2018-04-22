@@ -1,0 +1,23 @@
+{
+  "name": "ep_test",
+  "version": "0.0.1",
+  "keywords": [
+    "test button"
+  ],
+  "description": "just a test",
+  "contributors": [
+    {
+      "name": "Eric LENTZ"
+    }
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "ep_test@0.0.1",
+  "dist": {
+    "shasum": "d1ca9e737d5786add2b8bda3c0b27fe85262a069"
+  },
+  "_from": "node_modules/ep_test"
+}

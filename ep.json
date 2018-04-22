@@ -1,0 +1,10 @@
+{
+  "parts" : [
+    {
+      "name" : "button",
+      "hooks" : {
+        "eejaBlock_editbarMenuRight":"ep_test/test:eejsBlock_editbarMenuRight"
+      }
+    }
+  ]
+}
