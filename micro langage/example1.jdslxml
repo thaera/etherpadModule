@@ -1,0 +1,11 @@
+<article author='Gaëtan' date='15/05/2018'>
+	<info id='1'>
+		Je m'appelle  et je suis très gentil. <source id='1'>moi</source>
+		<info id='2'>
+			C'est super intéressant quand même ! <who id='2'>Gaëtan</who> <source id='2'>Huffpost</source>
+			<info id='3'>
+				La vie c'est marrant. <source id='3'>Figaro</source>
+			</info>
+		</info>
+	</info>
+</article>

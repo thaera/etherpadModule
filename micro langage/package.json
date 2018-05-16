@@ -1,0 +1,12 @@
+{
+  "name": "DSLtest",
+  "version": "0.2.0",
+  "description": "A DSL for journalists (test)",
+  "scripts": {
+    "start": "node DSLtest.js $FILE"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "sync-mysql": "^3.0.1"
+  }
+}
